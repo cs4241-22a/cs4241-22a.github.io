@@ -16,9 +16,9 @@ Course Staff
 
 Office Hours (tentative)
 ---
-- Monday: 8AM - 11AM w/ Noelle  
+- Monday: 8AM - 11AM w/ Noelle, 2PM-6PM w/ Kyle
 - Tuesday: 4PM - 8PM w/ Noelle  
-- Wednesday: 8AM - 12PM w/ Noelle  
+- Wednesday: 8AM - 12PM w/ Noelle, 12PM-4PM w/ Kyle  
 - Thursday: 2PM - 4PM w/ Charlie  
 - Friday: 4PM - 7PM w/Noelle
 
