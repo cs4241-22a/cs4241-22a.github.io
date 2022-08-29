@@ -7,7 +7,7 @@ Readings:
 
 *08-29*  
 Topic: Basic Development and Client/Server communication  
-Development Assignment: [A2](https://github.com/cs4241-22a/a2-shortstack/blob/master/README.md) (due 09–8)
+Development Assignment: [A2](https://github.com/cs4241-22a/a2-shortstack/blob/main/README.md) (due 09–8)
 
 Readings:  
 - [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch2.md), chapter 2 (due 09-1)
