@@ -33,7 +33,7 @@ app.listen( process.env.PORT || 3000 )
 processing on them before delivering them to clients. Express comes with the `express.static` middleware
 function for delivering these files. In this project, you'll note there's two directories (`views,public`) containing files for the client. To create a simple server delivering these files we could use:
 
-```js`
+```js
 const express = require( 'express' ),
       app = express()
 
