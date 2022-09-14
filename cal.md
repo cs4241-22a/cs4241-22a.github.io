@@ -19,3 +19,12 @@ Readings:
 Play (30 minutes each):  
 - [Flexbox Froggy](https://flexboxfroggy.com/) (due 09-8)
 - [CSS Grid Garden](https://cssgridgarden.com/) (due 09-8)
+
+*9-12*  
+Topic: NoSQL databases, Server Frameworks, and Design  
+Development Assignment: [A3](https://github.com/cs4241-22a/a3-persistence/blob/main/README.md)  
+
+Readings:
+- [Chapters 1–6 of the Non-Designer's Design Book](https://wpi.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma9936728683104746&context=L&vid=01WPI_INST:Default&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,non-designers%20design%20book), (due 9-15)
+- [Reframing Accessibility for the Web](https://alistapart.com/article/reframing-accessibility-for-the-web/) (due 9-19)
+- [JavaScript Promises in Sixteen Minutes](https://medium.com/quick-code/javascript-promises-in-twenty-minutes-3aac5b65b887) (due 9-19)
