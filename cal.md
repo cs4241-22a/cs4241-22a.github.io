@@ -35,5 +35,6 @@ Readings:
 - Deliverable 2 - Project Proposal, due 9/26 end of day
 - Deliverable 3 - Final Project submission, due 10/13 by 11:59 AM
 
-Deevelopment Assignment: 
-- [A4 Creative Coding]( )
+Deevelopment Assignment (choose one, due October 3rd): 
+- [A4 Creative Coding](https://github.com/cs4241-22a/a4-creative-coding/blob/main/README.md)
+- [A4 Components](https://github.com/cs4241-22a/a4-components/blob/main/README.md)
