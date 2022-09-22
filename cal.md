@@ -28,3 +28,9 @@ Readings:
 - [Chapters 1–6 of the Non-Designer's Design Book](https://wpi.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma9936728683104746&context=L&vid=01WPI_INST:Default&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,non-designers%20design%20book), (due 9-15)
 - [Reframing Accessibility for the Web](https://alistapart.com/article/reframing-accessibility-for-the-web/) (due 9-19)
 - [JavaScript Promises in Sixteen Minutes](https://medium.com/quick-code/javascript-promises-in-twenty-minutes-3aac5b65b887) (due 9-19)
+
+*9-22*
+[Final Project](https://github.com/cs4241-22a/final_project/blob/main/README.md)   
+- Deliverable 1 - Group formation, due 9/25 end of day
+- Deliverable 2 - Project Proposal, due 9/26 end of day
+- Deliverable 3 - Final Project submission, due 10/13 by 11:59 AM
