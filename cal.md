@@ -32,7 +32,7 @@ Readings:
 *9-22*  
 [Final Project](https://github.com/cs4241-22a/final_project/blob/main/README.md)   
 - Deliverable 1 - Group formation, due 9/25 end of day
-- Deliverable 2 - Project Proposal, due 9/26 end of day
+- Deliverable 2 - Project Proposal, due 9/27 end of day
 - Deliverable 3 - Final Project submission, due 10/13 by 11:59 AM
 
 Deevelopment Assignment (choose one, due October 3rd): 
