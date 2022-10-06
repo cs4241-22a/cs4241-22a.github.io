@@ -171,7 +171,7 @@ const buttonMaker = {
   create() {
     const btn = document.createElement('button')
     btn.innerText = 'click me'
-    onclick = ()=> console.log( this.value )
+    btn.onclick = ()=> console.log( this.value )
     document.body.appendChild( btn )
   }
 }
@@ -217,9 +217,10 @@ const Login = function() {
       fetch( '/login' )
     }
   }
+  return login
 }
 
 export default Login
 ```
 
-You can then use systems like Snowpack/Webpack/Vite to link them all together. See the [class notes on modules]([https://github.com/cs4241-22a/cs4241-22a.github.io/blob/main/prototypes_and_modules.md#modules-and-bundling-like-a-pro-snowpack--webpack](https://github.com/cs4241-22a/cs4241-22a.github.io/blob/main/using_modules.md)) for more info.
+You can then use systems like Vite/Snowpack/Webpack to link them all together. See the [class notes on modules](https://github.com/cs4241-22a/cs4241-22a.github.io/blob/main/using_modules.md) for more info.
